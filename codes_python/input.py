@@ -25,7 +25,6 @@ print('niranjan')
 abc=input("enter the score:")
 print("the score is :",abc)
 
- # git upload
 
-# niranjan k gowda 
+
 
