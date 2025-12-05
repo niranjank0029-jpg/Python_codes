@@ -27,4 +27,7 @@ print("the score is :",abc)
 
 
 
+#niranjan k gowda
+
+
 
