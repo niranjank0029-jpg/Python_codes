@@ -27,3 +27,5 @@ print("the score is :",abc)
 
  # git upload
 
+# niranjan k gowda 
+
